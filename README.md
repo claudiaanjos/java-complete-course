@@ -1,4 +1,4 @@
-# Java Course
+# Java Completo - Programação Orientada a Objetos + Projetos
 
 ### 📚  Descrição
 
