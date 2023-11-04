@@ -1,4 +1,4 @@
-# Java Completo - Programação Orientada a Objetos + Projetos
+# Java: Programação Orientada a Objetos + Projetos
 
 ### 📚  Descrição
 
@@ -22,7 +22,7 @@ Os tópicos do curso incluem:
 - Spring Data JPA - framework para acesso a dados ORM;
 - Spring Data MongoDB - framework para acesso a dados NoSQL ao banco MongoDB.
 
-&nbsp;
+#
 
 <div>
   <p align="left">
