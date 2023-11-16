@@ -1,5 +1,9 @@
 # Java: Programação Orientada a Objetos + Projetos
 
+<p align="center">
+<img src="https://img.shields.io/static/v1?label=Status&message=FINALIZADO&color=blue&style=for-the-badge"/>
+</p>
+
 ### 📚  Descrição
 
 Repositório com materiais do curso [Java Completo - Programação Orientada a Objetos + Projetos](https://www.udemy.com/course/java-curso-completo/) do Professor Nélio Alves. 
